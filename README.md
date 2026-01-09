@@ -34,7 +34,7 @@ I am a certified Full Stack Developer (FNB App Academy 2025) with a passion for 
 ### 📊 GitHub Stats
 ![Siphesihle's GitHub stats](https://github-readme-stats.vercel.app/api?username=siphesihlegonya&show_icons=true&theme=radical)
 
----
+--- [![](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://siphesihle-gonya.github.io/MyPortfolio/#projects)
 
 ### 📫 Connect with me
 Let's build something amazing together!
