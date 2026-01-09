@@ -41,7 +41,7 @@ Let's build something amazing together!
 
 - **LinkedIn:** [siphesihlegonya](https://www.linkedin.com/in/siphesihlegonya/)
 - **Instagram:** [@iam_sihlesiphe](https://www.instagram.com/iam_sihlesiphe/)
-- **Facebook:** [Siphesihle Ganya](https://www.facebook.com/siphesihle.ganya/)
+  
 
 ---
 *"Turning complex problems into elegant code."*
